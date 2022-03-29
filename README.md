@@ -1,14 +1,13 @@
 <br />
-<p align="center">
+<div align="center">
   <img src="https://bulma.io/images/bulma-logo.png" alt="Logo" >
 
   <h3 align="center">Bulma Site</h3>
   <p align="center">Esse é um modelo de site para portfólio feito utilizando somente HTML e Bulma.</p>
-  
-</p>
+</div>
 
-<br/>
-<br/>
+<br />
+<br />
 
 <h1 align="left">🚀 Tecnologias</h1>
 <span>
@@ -17,5 +16,10 @@
 </span>
  
 <br />
-<br/>
+<br />
 <h1 align="left">🔎 Confira</h1>
+<img src="./github/bulma-gif.gif" alt="Gif do site" /> <br />
+<img src="./github/img-1.png" alt="Imagem da Home page" />  
+<img src="./github/img-2.png" alt="Imagem da Contact page" /> <br />
+<img src="./github/img-3.jpg" alt="Imagem da tela em resolução 375" />
+<img src="./github/img-3.jpg" alt="Imagem da tela em resolução 375" />
