@@ -18,8 +18,10 @@
 <br />
 <br />
 <h1 align="left">🔎 Confira</h1>
-<img src="./github/bulma-gif.gif" alt="Gif do site" /> <br />
-<img src="./github/img-1.png" alt="Imagem da Home page" />  
-<img src="./github/img-2.png" alt="Imagem da Contact page" /> <br />
-<img src="./github/img-3.jpg" alt="Imagem da tela em resolução 375" />
-<img src="./github/img-3.jpg" alt="Imagem da tela em resolução 375" />
+<div align="center">
+  <img src="./github/bulma-gif.gif" alt="Gif do site" /> <br />
+  <img src="./github/img-1.png" alt="Imagem da Home page" width="600px"/>  
+  <img src="./github/img-2.png" alt="Imagem da Contact page" width="600px"/> <br />
+  <img src="./github/img-3.jpg" alt="Imagem da tela em resolução 375" />
+  <img src="./github/img-4.jpg" alt="Imagem da tela em resolução 375" height="625px" width="400px"/>
+</div>
