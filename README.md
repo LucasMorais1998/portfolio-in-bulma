@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <img src="https://bulma.io/images/bulma-logo.png" alt="Logo" >
+  <img src="https://bulma.io/images/bulma-logo.png" alt="Logo" width="350px">
 
   <h3 align="center">Bulma Site</h3>
   <p align="center">Esse é um modelo de site para portfólio feito utilizando somente HTML e Bulma.</p>
